@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-9f77afc138c62933a31be9a8b2e75615d9aac6cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\pre-dexed\release\classes-f654466c75a5fcd285ea3a2633091d39347a6a87.jar" />
+    </item>
+    <item
+        jar="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\pre-dexed\release\classes-5e6044f21d5bfaa726627b57b25c0be545d6c47d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\ddude\AndroidStudioProjects\CityClean\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-acaa2bf6f8c6d69495794f27e59214caf82c7016.jar" />
+    </item>
+
+</items>
